@@ -1,0 +1,7 @@
+.Card {
+  position: absolute;
+  z-index: 500;
+  /* left: 40;
+  right: 0; */
+  margin: auto;
+}
